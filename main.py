@@ -23,4 +23,4 @@ async def mem(ctx):
     print("Sended ", imagen)
 
 
-bot.run("MTE4MzgzMTMxNTQ5NDIxOTc4Ng.GcFkiY.HmlQablXzKe73SNwrmZRk3BJCsPoITUSNQwlNo")
+bot.run("Token")
